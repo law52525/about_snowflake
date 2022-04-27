@@ -21,7 +21,7 @@ handlers:
     level: INFO
     formatter: simple
     when: midnight
-    filename: /Users/mayi/logs/app.log
+    filename: /root/project/about_snowflake/logs/app.log
     backupCount: 3
 root:
   level: INFO

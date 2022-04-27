@@ -1,2 +1,2 @@
-tornado
-yaml
+tornado==6.1
+yaml==6.0
